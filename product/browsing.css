@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <title>Fluff Stuff Product Browsing Page</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <!-- writes out homepage texts and images-->
+    <table>
+      <tr>
+        <th colspan = "3">Fluff Stuff</th>
+      </tr>
+  
+
+      <tr>
+        <td colspan = "3">Affordable and adorable, Pittsburgh's best pillows</td>
+      </tr>
+
+      <!-- adds three main page images from homescreen folder -->
+      <tr>
+        <td><a href="homescreen/picture20.jpg"> <img src = "homescreen/picture20.jpg" alt = "my pillow"> </a> ></td>
+        <td><a href = "homescreen/picture21.jpg"> <img src="homescreen/picture21.jpg" alt = "my pillow"> </a>  ></td>
+        <td><a href = "homescreen/picture22.jpg"> <img src="homescreen/picture22.jpg" alt = "my pillow"> </a> ></td>
+      </tr>
+
+      <!-- adds instruction text and site logo -->
+      <tr>
+        <td colspan = "2"> Click anywhere to begin</td>
+        <td><img src="homescreen/picture23.jpg" alt = "my pillow"></td>
+      </tr>
+    </table>
+  </body>
+</html>
